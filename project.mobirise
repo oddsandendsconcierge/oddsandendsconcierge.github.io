@@ -52,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Odds and Ends Concierge",
+        "meta_descr": "Home Concierge Service\nServicing Mission Lakes Country Club",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
