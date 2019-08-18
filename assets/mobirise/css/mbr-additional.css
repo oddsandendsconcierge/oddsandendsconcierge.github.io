@@ -2603,9 +2603,14 @@ body {
   background-color: #f7efd4;
   background: linear-gradient(45deg, #f7efd4, #f7efd4);
 }
+.cid-rzsZyd0CfZ .media-container-row {
+  flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-rzsZyd0CfZ .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
