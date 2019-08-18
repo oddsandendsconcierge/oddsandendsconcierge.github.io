@@ -2481,54 +2481,27 @@ body {
 .cid-rzqZsi2OGy .dropdown-item:hover {
   color: #b1a374 !important;
 }
-.cid-rzqZtcVeL0 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #f7efd4;
-}
-.cid-rzqZtcVeL0 [class^="socicon-"]:before,
-.cid-rzqZtcVeL0 [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-rzqZtcVeL0 .btn-social {
-  border-color: #0ea323;
-}
-.cid-rzqZtcVeL0 .btn-social:hover {
-  background: #0ea323;
-}
-.cid-rzqZtcVeL0 .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-rzqZtcVeL0 .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rzqZtcVeL0 .btn-social,
-.cid-rzqZtcVeL0 .mbr-section-title {
-  color: #787324;
-}
-.cid-rzsZOxzWyK {
-  padding-top: 30px;
+.cid-rzt7r2XJkh {
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #f7efd4;
 }
-.cid-rzsZOxzWyK .line {
+.cid-rzt7r2XJkh .line {
   background-color: #0ea323;
   color: #0ea323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
-.cid-rzsZOxzWyK .section-text {
+.cid-rzt7r2XJkh .section-text {
   padding: 2rem 0;
   color: #787324;
 }
-.cid-rzsZOxzWyK .inner-container {
+.cid-rzt7r2XJkh .inner-container {
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-rzsZOxzWyK .inner-container {
+  .cid-rzt7r2XJkh .inner-container {
     width: 100% !important;
   }
 }
@@ -3128,35 +3101,8 @@ body {
 .cid-rzsQ07YRNw .dropdown-item:hover {
   color: #b1a374 !important;
 }
-.cid-rzsQ133qhc {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #f7efd4;
-}
-.cid-rzsQ133qhc [class^="socicon-"]:before,
-.cid-rzsQ133qhc [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-rzsQ133qhc .btn-social {
-  border-color: #0ea323;
-}
-.cid-rzsQ133qhc .btn-social:hover {
-  background: #0ea323;
-}
-.cid-rzsQ133qhc .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-rzsQ133qhc .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rzsQ133qhc .btn-social,
-.cid-rzsQ133qhc .mbr-section-title {
-  color: #787324;
-}
 .cid-rzt33Vt815 {
-  padding-top: 30px;
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #f7efd4;
 }
