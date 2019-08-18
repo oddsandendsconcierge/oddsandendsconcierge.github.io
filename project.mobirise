@@ -354,7 +354,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Choose from Three Packages<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#e4d295"
               },
@@ -373,7 +373,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<br>Choose from Two Packages<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#e4d295"
               }
