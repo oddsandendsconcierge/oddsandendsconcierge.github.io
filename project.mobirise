@@ -351,7 +351,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<div><br></div><div><br></div><div><span style=\"font-size: 3rem;\">Home Checks</span><br></div><div>and </div><div>Property Care</div><div><br></div>",
+                "title": "<div><br></div><div><br></div><div><br></div><div>Home Checks</div><div>and </div><div>Property Care</div><div><br></div>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Choose from Three Packages<br><br>",
